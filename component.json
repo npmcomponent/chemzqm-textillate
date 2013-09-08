@@ -1,0 +1,17 @@
+{
+  "name": "textillate",
+  "repo": "chemzqm/textillate",
+  "description": "text animation",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/jquery": "*",
+    "ianstormtaylor/animate": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
