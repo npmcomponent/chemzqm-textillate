@@ -4,6 +4,20 @@ See a live demo [here](http://jschr.github.com/textillate/).
 
 Textillate.js combines some awesome libraries to provide an easy-to-use plugin for applying CSS3 animations to any text.
 
+## Install
+
+```
+component install chemzqm/textillate
+```
+
+## Example
+
+``` js
+var textillate = require('textillate');
+var el = document.getElementById('title');
+textillate(el, { in : { effect: 'roll-in' }});
+```
+
 ##Usage
 
 Let's start with the basic markup:
