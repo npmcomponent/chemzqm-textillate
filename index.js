@@ -1,5 +1,5 @@
-var jQuery = require ('jquery');
-require ('animate');
+var jQuery = require ('component-jquery');
+require ('ianstormtaylor-animate');
 /*
  * textillate.js
  * http://jschr.github.com/textillate
